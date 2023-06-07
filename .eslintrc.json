@@ -1,0 +1,8 @@
+{
+  "extends": ["next/core-web-vitals", "@rocketseat/eslint-config/react"],
+  "rules": {
+    "no-var": "off",
+    "no-unused-vars": "off",
+    "@next/next/no-img-element": "off"
+  }
+}
